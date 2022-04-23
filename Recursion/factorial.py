@@ -10,7 +10,9 @@ def calculate_factorial():
     number = int(questionary.text("Please enter a number to caculate it's factorial:").ask())    
     return number, factorial(number)
 
-def factorial(number):
+def factorial(number: int):
+    ''' Calculate the factorial of a positive integer (number)
+    '''
     # if number is 0, then factorial of number is 1 by convention
     if number == 0:
         return 1
