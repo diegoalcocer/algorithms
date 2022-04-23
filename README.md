@@ -1,8 +1,10 @@
 # Data Structures and Algorithms
 
 ## Description
-This is a collection of a variety of algorithms implemented in Python. The repository is meant to provide a learning resource 
+This repository is a collection of algorithms implemented in Python. Data structures and algorithms are a vital subject in computer science. Good knowledge of data structures and algorithms is the foundation of writing good code.
 
+Let's learn together!
+---
 ## Features
 * Well documentented source code with detailed explanations
 
