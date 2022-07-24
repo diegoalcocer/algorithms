@@ -6,10 +6,6 @@
 # The right subtree of a node contains only nodes with keys greater than the node's key.
 # Both the left and right subtrees must also be binary search trees.
 
-from distutils.dir_util import create_tree
-from turtle import left, right
-from sqlalchemy import false, true
-
 
 class TreeNode:
     
